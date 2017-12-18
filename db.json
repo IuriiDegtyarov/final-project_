@@ -1,0 +1,67 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "firstName": "JoyRoyR",
+      "secondName": "Dornyrr",
+      "phone": 380666666666,
+      "birthday": "01.01.2007",
+      "website": "http://example.com",
+      "email": "john.doe@ex455ample.com",
+      "company": "freelance"
+    },
+    {
+      "id": 2,
+      "firstName": "Mike3",
+      "secondName": "Duval",
+      "phone": "38066666678",
+      "birthday": "01.01.2000",
+      "website": "http://example.com",
+      "email": "john.doe@ex455ample.com",
+      "company": "freelance"
+    },
+    {
+      "id": 3,
+      "firstName": "Lolita",
+      "secondName": "Pits",
+      "phone": 380666666666,
+      "birthday": "01.01.2000",
+      "website": "http://example.com",
+      "email": "john.doe@ex455ample.com",
+      "company": "freelance"
+    },
+    {
+      "id": 4,
+      "firstName": "Ketr",
+      "secondName": "Royal",
+      "phone": 380666666666,
+      "birthday": "01.01.2000",
+      "website": "http://example.com",
+      "email": "john.doe@ex455ample.com",
+      "company": "freelance"
+    },
+    {
+      "id": 5,
+      "firstName": "David",
+      "secondName": "Oseliany",
+      "phone": "345678922",
+      "birthday": "31.04.1996",
+      "website": "http://www.dav.com",
+      "email": "dav@gmail.com",
+      "company": "Prisent"
+    },
+    {
+      "id": 6,
+      "firstName": "Luk",
+      "secondName": "Scaewoker",
+      "phone": "380666666677",
+      "birthday": "10.12.1987",
+      "website": "http://example.com",
+      "email": "luk.Sca@gmail.com",
+      "company": "FC livirpul"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
