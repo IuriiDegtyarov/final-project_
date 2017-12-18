@@ -2,63 +2,73 @@
   "contacts": [
     {
       "id": 1,
-      "firstName": "JoyRoyR",
-      "secondName": "Dornyrr",
+      "firstName": "John",
+      "secondName": "Doe",
       "phone": 380666666666,
-      "birthday": "01.01.2007",
+      "birthday": "01.01.2000",
       "website": "http://example.com",
       "email": "john.doe@ex455ample.com",
       "company": "freelance"
     },
     {
       "id": 2,
-      "firstName": "Mike3",
-      "secondName": "Duval",
-      "phone": "38066666678",
-      "birthday": "01.01.2000",
+      "firstName": "Kevin",
+      "secondName": "Smith",
+      "phone": "380939495969",
+      "birthday": "15.10.1988",
       "website": "http://example.com",
-      "email": "john.doe@ex455ample.com",
-      "company": "freelance"
+      "email": "kevin.sme@ex455ample.com",
+      "company": "boeing"
     },
     {
       "id": 3,
-      "firstName": "Lolita",
-      "secondName": "Pits",
-      "phone": 380666666666,
-      "birthday": "01.01.2000",
+      "firstName": "Daniel",
+      "secondName": "Robertson",
+      "phone": 380959658844,
+      "birthday": "05.12.1991",
       "website": "http://example.com",
-      "email": "john.doe@ex455ample.com",
-      "company": "freelance"
+      "email": "daniel.rob@ex455ample.com",
+      "company": "school teacher"
     },
     {
       "id": 4,
-      "firstName": "Ketr",
-      "secondName": "Royal",
+      "firstName": "Tomas",
+      "secondName": "Franclin",
       "phone": 380666666666,
-      "birthday": "01.01.2000",
+      "birthday": "21.07.1974",
       "website": "http://example.com",
-      "email": "john.doe@ex455ample.com",
-      "company": "freelance"
+      "email": "tomas.fr@ex455ample.com",
+      "company": "coach of the football team"
     },
     {
       "id": 5,
-      "firstName": "David",
-      "secondName": "Oseliany",
-      "phone": "345678922",
-      "birthday": "31.04.1996",
-      "website": "http://www.dav.com",
-      "email": "dav@gmail.com",
-      "company": "Prisent"
+      "firstName": "Oprah",
+      "secondName": "Winfrey",
+      "phone": "380959889654",
+      "birthday": "27.05.1984",
+      "website": "http://www.example.com",
+      "email": "opra.v@gmail.com",
+      "company": "TV presenter"
     },
     {
       "id": 6,
-      "firstName": "Luk",
-      "secondName": "Scaewoker",
-      "phone": "380666666677",
+      "firstName": "Tiger",
+      "secondName": "Woods",
+      "phone": "380959811223",
       "birthday": "10.12.1987",
       "website": "http://example.com",
-      "email": "luk.Sca@gmail.com",
-      "company": "FC livirpul"
+      "email": "tiger.w@gmail.com",
+      "company": "golf star"
+    },
+    {
+      "id": 7,
+      "firstName": "Joanne",
+      "secondName": "Rowling",
+      "phone": "380958954348",
+      "birthday": "19.08.1972",
+      "website": "http://example.com",
+      "email": "rowling.j@gmail.com",
+      "company": "British writer"
     }
   ],
   "profile": {
